@@ -57,7 +57,9 @@
   <a href="https://www.linkedin.com/in/kaik-bastos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaik%20Bastos&logo=linkedin&label=In&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=kaik.b_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/kaik.b_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=kaik.b_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
